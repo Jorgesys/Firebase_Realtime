@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Realtime</string>
+    <string name="dummy_name">Jorge</string>
+    <string name="dummy_surname">Bosca</string>
+    <string name="name_hint">Write a name</string>
+    <string name="surname_hint">Write a surname</string>
+    <string name="update_user_info">name and surname</string>
+</resources>

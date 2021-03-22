@@ -1,0 +1,31 @@
+{
+	"users": [{
+			"name": "Jorgesys",
+			"surname": "Purcaru"
+		},
+		{
+			"name": "Iris",
+			"surname": "Bosca"
+		},
+		{
+			"name": "Doris",
+			"surname": "Radu"
+		},
+		{
+			"name": "Radu",
+			"surname": "Rom"
+		},
+		{
+			"name": "Cris",
+			"surname": "N/A"
+		},
+		{
+			"name": "Haris",
+			"surname": "Kossy"
+		},
+		{
+			"name": "Angela",
+			"surname": "Purcaru"
+		}
+	]
+}
